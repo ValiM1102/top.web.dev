@@ -1,0 +1,31 @@
+header {
+    background-color: #1F2937;
+
+}
+.hero {
+    background-color: #1F2937;
+} 
+footer {
+    background-color: #1F2937;
+}
+.title {
+    font-size: 48px;
+    font-weight:bold;
+    color: #F9FAF8;
+}
+.par1 {
+    font-size: 18px;
+    color:#e5e7eb
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+
+}
+.signup {
+    background-color: #3882f6;
+}
+.action {
+    background-color: #3882f6;
+}
