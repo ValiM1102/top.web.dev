@@ -1,31 +1,109 @@
+body {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
 header {
-    background-color: #1F2937;
-
+    background-color: antiquewhite;
 }
-.hero {
-    background-color: #1F2937;
-} 
 footer {
-    background-color: #1F2937;
-}
-.title {
-    font-size: 48px;
-    font-weight:bold;
-    color: #F9FAF8;
-}
-.par1 {
-    font-size: 18px;
-    color:#e5e7eb
+    background-color: antiquewhite;
 }
 .logo {
     font-size: 24px;
-    color: #F9FAF8;
+    text-align: left;
+    padding-left: 10%;
+}
+.links {
+    font-size: 18px;
+    color: rgb(230, 150, 47);
+}
+.title{
+    text-align: left;
+    padding-left: 10%;
+}
+.title1 {
+    font-size: 48px;
     font-weight: bold;
+    color: chocolate;
+}
+.subtext {
+    font-size: 22px;
+    color: rgb(230, 150, 47);
+}
+.sign {
+    background-color: rgb(231, 169, 158);
+    color: white;
+    border: 2px solid white;
+    min-width: 40px;
+    max-width: 60px;
+    
+    
+}
+.mainline {
+    font-size: 25px;
+    font-weight: bold;
+}
+.secondline {
+    font-size: 20px;
+}
+.title2 {
+    font-size: 36px;
+}
+.push {
+    background-color: rgb(231, 169, 158);
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.customer {
+    background-color:rgb(250, 222, 185);
+}
+.comment {
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+}
+.name {
+    font-weight:bold ;
+    font-size: 30px;
+}
+.topbox1 {
+    display: flex;
+}
+.topbox1 > * {
+    flex-basis: 100%;
+}
+.topbox2 {
+    display: flex;
+}
+.topbox2 > * {
+    flex-basis: 100%;
+}
+.links {
+    display: flex;
+}
+.links > * {
+    flex-basis: 100%;
+}
+.ilustrations {
+    display: flex;
+}
+.ilustrations > * {
+    flex-basis: 100%;
 
 }
-.signup {
-    background-color: #3882f6;
+.customer{
+    display: flex;
 }
-.action {
-    background-color: #3882f6;
+.customer > * {
+    flex-basis: 100%;
+}
+.push {
+    
+    display: flex;
+}
+/*modify the design in the future*/
+.push > * {
+    flex-basis: 100%;
 }
