@@ -1,4 +1,4 @@
-# top.web.dev #landingpage #top
+# top.web.dev 
 If you like this landing page you can give me a follow.
 The Odin Project web challenge 1.
 Credit for the amazing photos used here:
