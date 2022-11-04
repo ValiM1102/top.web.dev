@@ -7,7 +7,7 @@ header {
     background-color: black;
     color: white;
     padding: 1%;
-    height: 380px;
+    height: 450px;
     box-shadow: 0 0 25px 0 rgba(0, 0, 0, .30);
 }
 .topbox1 {
@@ -57,6 +57,7 @@ p {
 a {
     color:white;
     text-decoration: none;
+    display: contents;
 }
 .buy {
     border: 2px solid white;
@@ -79,6 +80,7 @@ a {
 }
 .iltext {
     display: flex;
+    max-width: 100%;
 }
 h2 {
     text-align: center;
@@ -136,6 +138,7 @@ h2 {
     max-height: 250px;
     background-color: rgb(238, 234, 234);
     margin: 2%;
+    
 }
 .customer > * {
     flex-basis: 100%;
@@ -153,6 +156,7 @@ h3 {
 .bob {
     border: 5px solid white;
     border-radius: 3%;
+    padding-bottom: 2%;
 }
 .seller {
     display: flex;
@@ -181,4 +185,12 @@ h3 {
 }
 .button {
     padding-left: 10%;
+}
+footer {
+    height: 160px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+    text-align: center;
+    padding-top: 1%;
 }

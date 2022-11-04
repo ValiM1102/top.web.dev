@@ -1,4 +1,5 @@
-# top.web.dev
+# top.web.dev #landingpage #top
+If you like this landing page you can give me a follow.
 The Odin Project web challenge 1.
 Credit for the amazing photos used here:
 Photo by Öznur Yüksel: https://www.pexels.com/photo/field-of-white-and-yellow-flowers-12292846/
